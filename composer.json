@@ -3,7 +3,6 @@
     "description": "Integrate SFTP into Laravel's filesystem.",
     "type": "library",
     "require": {
-        "league/flysystem-sftp": "^1.0",
         "illuminate/support": "^5.0"
     },
     "license": "Apache License 2.0",
